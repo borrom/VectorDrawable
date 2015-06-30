@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportHeight="1000"
+    android:viewportWidth="1000"
+    tools:targetApi="21">
+
+    <group android:name="">
+        <path android:fillColor="@android:color/transparent"
+            android:strokeWidth="5"
+            android:strokeColor="@android:color/holo_blue_dark"
+            android:pathData="
+            M10,500 C15,100 500,100 500,500
+            M10,500 C15,200 500,200 500,500
+            M10,500 C15,300 500,300 500,500
+            M10,500 C15,400 500,400 500,500
+            M10,500 C15,500 500,500 500,500
+            M10,500 C15,600 500,600 500,500
+            M10,500 C15,700 500,700 500,500
+            M10,500 C15,800 500,800 500,500
+            M10,500 C15,900 500,900 500,500
+            M10,500 C15,1 500,1 500,500"/>
+
+    </group>
+
+</vector>
