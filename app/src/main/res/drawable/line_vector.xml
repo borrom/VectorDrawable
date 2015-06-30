@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportHeight="600"
+    android:viewportWidth="600">
+    <group android:name="line_down">
+        <path
+            android:name="down"
+            android:fillColor="#000"
+            android:pathData="@string/line_down"/>
+    </group>
+    <group android:name="done">
+        <path
+            android:name="line_done"
+            android:fillColor="#000"
+            android:pathData="@string/line_up"/>
+    </group>
+</vector>

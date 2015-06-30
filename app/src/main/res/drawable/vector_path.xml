@@ -10,4 +10,5 @@
         android:strokeWidth="5"
         android:fillColor="@android:color/transparent"
         android:pathData="@string/left_arrow"/>
+
 </vector>
